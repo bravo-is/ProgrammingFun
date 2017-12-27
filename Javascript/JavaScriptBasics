@@ -1,0 +1,18 @@
+/* Variables */
+
+// declaring a Variable
+var firstVar;
+
+// initializing a variable
+firstVar = "Hello";
+var secondVar = "World";
+const thirdVar = "I'm";
+let thirdVar = "Israel";
+
+/* The four primitive variable types are string, number, boolean, null*/
+
+// outputing our variable to the console
+console.log(firstVar)
+console.log(secondVar)
+console.log(thirdVar)
+console.log(fourthVar)
